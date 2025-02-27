@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unity\\Ammit in the dessert\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B904848E-D5F0-E45F-FDB4-E40BDEA940C3}|Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj|d:\\unity\\ammit in the dessert\\assets\\samples\\xr interaction toolkit\\2.6.4\\starter assets\\editor\\scripts\\starterassetssampleprojectvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B904848E-D5F0-E45F-FDB4-E40BDEA940C3}|Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj|solutionrelative:assets\\samples\\xr interaction toolkit\\2.6.4\\starter assets\\editor\\scripts\\starterassetssampleprojectvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StarterAssetsSampleProjectValidation.cs",
+              "DocumentMoniker": "D:\\unity\\Ammit in the dessert\\Assets\\Samples\\XR Interaction Toolkit\\2.6.4\\Starter Assets\\Editor\\Scripts\\StarterAssetsSampleProjectValidation.cs",
+              "RelativeDocumentMoniker": "Assets\\Samples\\XR Interaction Toolkit\\2.6.4\\Starter Assets\\Editor\\Scripts\\StarterAssetsSampleProjectValidation.cs",
+              "ToolTip": "D:\\unity\\Ammit in the dessert\\Assets\\Samples\\XR Interaction Toolkit\\2.6.4\\Starter Assets\\Editor\\Scripts\\StarterAssetsSampleProjectValidation.cs",
+              "RelativeToolTip": "Assets\\Samples\\XR Interaction Toolkit\\2.6.4\\Starter Assets\\Editor\\Scripts\\StarterAssetsSampleProjectValidation.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAmwFYAAADgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T21:41:15.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
